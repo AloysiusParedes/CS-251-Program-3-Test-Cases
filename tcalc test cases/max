@@ -1,0 +1,2 @@
+#maximum of column 2 and 3
+max2-3: ? > $2 $3 $2 $3

@@ -1,0 +1,2 @@
+#absolute value of column 2
+abs2: ? < $2 0.0 * -1.0 $2 $2

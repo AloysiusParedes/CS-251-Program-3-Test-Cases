@@ -1,0 +1,2 @@
+# average of column 2 and 3
+avg2-3: / + $2 $3 2

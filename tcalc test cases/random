@@ -1,0 +1,4 @@
+#1.0 if column 2 is less than 50
+#or column 3 is greater than 100
+#0.0 otherwise
+random: | < $2 50 > $3 100

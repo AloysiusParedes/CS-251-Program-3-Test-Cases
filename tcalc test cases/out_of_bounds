@@ -1,0 +1,4 @@
+#semantic error
+#column attempting to access is out of bounds
+#change row value to test for both bounds
+avg2-3: / + $2 $5 2

@@ -1,0 +1,3 @@
+#syntax error
+#first + operator is followed by only one expression, not two
+Label: + + $2 $3
